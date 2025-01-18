@@ -3,5 +3,5 @@ int add(int a,int b){
     return a+b;
 }
 int main(){
-    printf("%d\n",add(3+2));
+    printf("%d\n",add(3,2));
 }
